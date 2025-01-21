@@ -444,7 +444,7 @@ footer .div3 .flax{gap: 10px;}
   padding: 6px 24px;
   }
   .main-section {
-  padding: 20px 0;
+  padding: 24px 0;
   }
   .section-tittle {
   font-size: 26px;
@@ -466,30 +466,30 @@ footer .div3 .flax{gap: 10px;}
   font-size: 9px;
   padding: 6px 11px;
   border-radius: 28px;
-  bottom: -3%;
+  bottom: -5%;
   left: 10%;
   }
   .card-tittle {
   font-size: 10px;
-  padding: 25px 20px 33px 23px;
+  padding: 22px 20px 32px 22px;
   }
   footer .div1 h1 {
-  font-size: 36px;
+  font-size: 32px;
   }
     footer .div1 .disc {
-    font-size: 16px;
+    font-size: 18px;
     }
     footer .div2 h3 {
     font-size: 24px;
-    margin-bottom: 26px;
+    margin-bottom: 24px;
     }
     footer .div2 ul a {
-    font-size: 17px;
-    margin-bottom: 16px;
+    font-size: 23px;
+    margin-bottom: 20px;
     }
     footer .div3 h2 {
-    font-size: 22px;
-    margin-bottom: 28px;
+    font-size: 24px;
+    margin-bottom: 32px;
     }
 }
 
